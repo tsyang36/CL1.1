@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/com/tsy/cl/main/car/dao/CarDao.java=UTF-8
+encoding//src/com/tsy/cl/main/gclass/dao/GclassDao.java=UTF-8
+encoding//src/com/tsy/cl/main/gclass/view/GclassServlet.java=UTF-8
+encoding//src/com/tsy/cl/main/goods/dao/GoodsDao.java=UTF-8
+encoding//src/com/tsy/cl/main/goods/view/GoodsServlet.java=UTF-8
+encoding//src/com/tsy/cl/main/menu/bean/MenuBean.java=UTF-8
+encoding//src/com/tsy/cl/main/menu/dao/MenuDao.java=UTF-8
+encoding//src/com/tsy/cl/main/orders/dao/OrderDao.java=UTF-8
+encoding//src/com/tsy/cl/main/user/dao/UserDao.java=UTF-8
+encoding//src/com/tsy/cl/util/CodeUtil.java=UTF-8
